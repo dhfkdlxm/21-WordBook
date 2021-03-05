@@ -1,7 +1,7 @@
 # 21-WordBook
  
  '21/3/5(금)
- <img src = "Architecture.png"/><br>
+ <img src = "Architecture.jpg"/><br>
  
 ○ 금융권 아키텍처 관련 용어정리
 ① 계정계 : 계정을 관리하는 시스템(계좌, 계정)
